@@ -7,3 +7,14 @@ Credits to: KALBARCZYK Michał, BOESSEN Kayle, BOL Julien, DARDEL Léopold, MAES
 They edited and wrote a lot of the code in this repository
 
 In the Scripts folder the file "Variables.ipynb" creates a dataframe and a CSV file of all variables used in the model
+
+Script "F1_baseline_model2.ipynb" creates a static ANN Model
+
+Script "Dynamic_model_baseline" created the dynamic ANN Model
+
+Script "Dynamic_Model_Testing" is used to test the accuracy of the model with different variables enabled
+
+Lastly,
+Script "F1_playground_start" is used as intital testing space but also data transformation
+
+Link to the full report:
