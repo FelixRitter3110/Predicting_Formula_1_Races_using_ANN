@@ -6,3 +6,4 @@ Credits to: KALBARCZYK Michał, BOESSEN Kayle, BOL Julien, DARDEL Léopold, MAES
 
 They edited and wrote a lot of the code in this repository
 
+In the Scripts folder the file "Variables.ipynb" creates a dataframe and a CSV file of all variables used in the model
