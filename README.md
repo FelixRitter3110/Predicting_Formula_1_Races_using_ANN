@@ -17,7 +17,4 @@ Script "Dynamic_Model_Testing" is used to test the accuracy of the model with di
 Lastly,
 Script "F1_playground_start" is used as intital testing space but also data transformation
 
-Link to the full report:
-
-
 All generated prediction Graphs can be seen in Folder "Outputs"
